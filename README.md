@@ -21,4 +21,12 @@ Player 2 guesses letters by entering them one at a time.
 The hangman figure will update based on incorrect guesses.
 Player 2 wins by guessing the correct word or loses after exceeding the maximum number of allowed incorrect guesses.
 # Customization
-You can customize the words and phrases used in the game by modifying the words.txt file.
+You can customize the words and phrases used in the game by modifying the words.txt file. and let pick random word to guess from words you provided.
+
+![Screenshot (639)](https://github.com/LAHARIYADLA/Hangman_game/assets/84332506/add2da36-3403-4d31-bc22-50519f5d427b)![Screenshot (640)](https://github.com/LAHARIYADLA/Hangman_game/assets/84332506/f73a534e-bd80-4030-bcd9-b2ccfccb7fe5)![Screenshot (641)](https://github.com/LAHARIYADLA/Hangman_game/assets/84332506/d6b32d09-00a1-4091-9d8b-70dd6dcaa98b)
+![Screenshot (651)](https://github.com/LAHARIYADLA/Hangman_game/assets/84332506/55ec2009-e44d-4eea-9207-04f0d007110f)![Screenshot (653)](https://github.com/LAHARIYADLA/Hangman_game/assets/84332506/dd913e35-6dfb-4193-a80a-3ccfaed8111b)
+
+
+
+
+
